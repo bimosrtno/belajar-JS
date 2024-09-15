@@ -1,0 +1,1 @@
+isinya tetang belajar javascript dari berbagai sumber
