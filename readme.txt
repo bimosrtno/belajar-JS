@@ -1,1 +1,1 @@
-isinya tetang belajar javascript dari berbagai sumber
+Belajar javascript dari berbagai sumber
